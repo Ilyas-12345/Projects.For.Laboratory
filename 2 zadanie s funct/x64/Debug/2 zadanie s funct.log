@@ -1,0 +1,11 @@
+﻿  Source.c
+E:\my project\5лаба\2 zadanie s funct\arrays.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\my project\5лаба\2 zadanie s funct\Source.c(7,52): warning C4101: k: неиспользованная локальная переменная
+E:\my project\5лаба\2 zadanie s funct\Source.c(7,20): warning C4101: count: неиспользованная локальная переменная
+E:\my project\5лаба\2 zadanie s funct\Source.c(7,9): warning C4101: min: неиспользованная локальная переменная
+E:\my project\5лаба\2 zadanie s funct\Source.c(7,17): warning C4101: j: неиспользованная локальная переменная
+E:\my project\5лаба\2 zadanie s funct\Source.c(7,14): warning C4101: i: неиспользованная локальная переменная
+  array.c
+E:\my project\5лаба\2 zadanie s funct\array.c(62,13): warning C4098: output_newarray: функция типа "void", возвращающая значение
+  Создание кода...
+  2 zadanie s funct.vcxproj -> E:\my project\5лаба\x64\Debug\2 zadanie s funct.exe
