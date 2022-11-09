@@ -1,0 +1,4 @@
+﻿  dynaminc_array.c
+E:\my project\5лаба\5лаба\dynaminc_array.c(7,18): warning C4101: newsize: неиспользованная локальная переменная
+E:\my project\5лаба\5лаба\dynaminc_array.c(13): error C4700: использована неинициализированная локальная переменная "j"
+E:\my project\5лаба\5лаба\dynaminc_array.c(21): error C4700: использована неинициализированная локальная переменная "count"
