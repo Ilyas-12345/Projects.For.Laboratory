@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <stdlib.h> 
 
-void input_array(int** array_1, int rows_1, int columns_1)
+void input_Array(int** array_1, int rows_1, int columns_1)
 {
     for (int i = 0; i < rows_1; i++) {
         array_1[i] = (int*)malloc(columns_1 * sizeof(int));

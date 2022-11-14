@@ -10,7 +10,7 @@ int main()
     printf("input columns=");
     scanf_s("%d", &columns);
     array = (int**)malloc(rows * sizeof(int*));
-	input_array(array, rows, columns);
+	input_Array(array, rows, columns);
 	output_array(array, rows, columns);
     printf("\n");
 	search_min(array, rows, columns);
