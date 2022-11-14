@@ -1,3 +1,0 @@
-E:/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir
-E:/untitled6/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/untitled6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
