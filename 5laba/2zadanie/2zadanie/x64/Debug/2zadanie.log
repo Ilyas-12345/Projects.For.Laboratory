@@ -1,0 +1,4 @@
+﻿  arrays.c
+E:\my project\2zadanie\2zadanie\arrays.c(15,34): warning C4020: malloc: слишком много фактических параметров
+E:\my project\2zadanie\2zadanie\arrays.c(101,13): warning C4098: free_array: функция типа "void", возвращающая значение
+  2zadanie.vcxproj -> E:\my project\2zadanie\x64\Debug\2zadanie.exe
