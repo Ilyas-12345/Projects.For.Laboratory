@@ -4,11 +4,12 @@
 
 int main()
 {
-
 	int** array;
 	int i, j, rows, columns, count = 0;
+	printf("Enter the rows \n");
 	check_array(&rows);
-	check1_array(&columns); 
+	printf("Enter the columns \n");
+	check_array(&columns);
 	memory_allocate(&array, rows, columns);
 	input_array(&array, rows, columns);
 	output_array(&array, rows, columns);

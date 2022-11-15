@@ -2,17 +2,8 @@
 
 void check_array(int* rows_1)
 {
-	printf("Enter the rows \n");
+	
 	while (scanf_s("%d", rows_1) == 0 || *rows_1 < 0 || getchar() != '\n')
-	{
-		printf("Wrong input.\n");
-		rewind(stdin);
-	}
-}
-void check1_array(int* columns_1)
-{
-	printf("Enter the columns \n");
-	while (scanf_s("%d", columns_1) == 0 || *columns_1 < 0 || getchar() != '\n')
 	{
 		printf("Wrong input.\n");
 		rewind(stdin);
