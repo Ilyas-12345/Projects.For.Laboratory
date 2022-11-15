@@ -1,0 +1,6 @@
+﻿  arrays.c
+  main.c
+E:\my project\3zadanie\3zadanie\main.c(9,9): warning C4101: j: неиспользованная локальная переменная
+E:\my project\3zadanie\3zadanie\main.c(9,6): warning C4101: i: неиспользованная локальная переменная
+  Создание кода...
+  3zadanie.vcxproj -> E:\my project\3zadanie\x64\Debug\3zadanie.exe
