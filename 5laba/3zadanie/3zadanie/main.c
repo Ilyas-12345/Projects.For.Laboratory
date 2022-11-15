@@ -14,7 +14,7 @@ int main()
 	output_array(&array, rows, columns);
 	printf("new mass:\n");
 	array_shift(&array, rows, columns);
-	output_newarray(&array, rows, columns);
+	output_array(&array, rows, columns);
 	free_array(&array, rows);
 	return 0;
 }

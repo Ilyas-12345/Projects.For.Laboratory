@@ -59,15 +59,6 @@ void array_shift(int*** array_1, int rows_1, int columns_1)
 		(*array_1)[0][i] = temp;
 	}
 }
-void output_newarray(int*** array_1, int rows_1, int columns_1)
-{
-	for (int i = 0; i < rows_1; i++)
-	{
-		for (int j = 0; j < columns_1; j++)
-			printf("%d\t", (*array_1)[i][j]);
-		printf("\n");
-	}
-}
 void free_array(int*** array_1,int rows_1)
 {
 	for (int i = 0; i < rows_1; i++)

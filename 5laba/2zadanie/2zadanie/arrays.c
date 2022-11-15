@@ -50,7 +50,7 @@ void output_array( int rows, int*** array)
 void search_min(int*** array_1, int columns_1, int i, int* min_1)
 {
     
-    for (int j = 0; j < (columns_1); j++) {
+    for (int j = 0; j < (columns_1-1); j++) {
         if ((*min_1) > (*array_1)[i][j]) {
             (*min_1) = (*array_1)[i][j];
         }
@@ -90,6 +90,7 @@ void array_find_length_of_the_col( int i, int* col, int*** array)
         (*col)++;
         j++;
     }
+    (*col)++;
 }
 void free_array(int*** array_1, int rows_1)
 {
@@ -98,5 +99,4 @@ void free_array(int*** array_1, int rows_1)
         free((*array_1)[i]);
     }
     free((*array_1));
-    return 0;
 }

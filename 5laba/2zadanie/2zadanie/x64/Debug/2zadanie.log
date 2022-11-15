@@ -1,4 +1,7 @@
 ﻿  arrays.c
-E:\my project\2zadanie\2zadanie\arrays.c(15,34): warning C4020: malloc: слишком много фактических параметров
-E:\my project\2zadanie\2zadanie\arrays.c(101,13): warning C4098: free_array: функция типа "void", возвращающая значение
-  2zadanie.vcxproj -> E:\my project\2zadanie\x64\Debug\2zadanie.exe
+C:\Users\User\source\repos\Ilyas-12345\Projects.For.Laboratory\5laba\2zadanie\2zadanie\arrays.c(15,34): warning C4020: malloc: слишком много фактических параметров
+C:\Users\User\source\repos\Ilyas-12345\Projects.For.Laboratory\5laba\2zadanie\2zadanie\arrays.c(93,11): error C2065: сol: необъявленный идентификатор
+C:\Users\User\source\repos\Ilyas-12345\Projects.For.Laboratory\5laba\2zadanie\2zadanie\arrays.c(93,6): error C2100: недопустимое косвенное обращение
+C:\Users\User\source\repos\Ilyas-12345\Projects.For.Laboratory\5laba\2zadanie\2zadanie\arrays.c(102,13): warning C4098: free_array: функция типа "void", возвращающая значение
+  main.c
+  Создание кода...

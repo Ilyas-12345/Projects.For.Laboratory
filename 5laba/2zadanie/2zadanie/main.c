@@ -13,4 +13,5 @@ int main()
     printf("\n");
     output_array(rows, &array);
     free_array(&array, rows);
+    return 0;
 }

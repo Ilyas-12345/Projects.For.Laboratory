@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void check_array(int* rows_1)
 {
 	printf("Enter the rows \n");
