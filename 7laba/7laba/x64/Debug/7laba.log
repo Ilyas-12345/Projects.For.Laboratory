@@ -1,0 +1,6 @@
+﻿  main.c
+E:\my project\7laba\7laba\main.c(11,2): warning C4013: allocateMemory: нет определения; предполагается "extern" с возвратом типа "int"
+E:\my project\7laba\7laba\main.c(12,2): warning C4013: String: нет определения; предполагается "extern" с возвратом типа "int"
+E:\my project\7laba\7laba\main.c(13,2): warning C4013: ChangeRegistеr: нет определения; предполагается "extern" с возвратом типа "int"
+E:\my project\7laba\7laba\main.c(14,2): warning C4013: outputString: нет определения; предполагается "extern" с возвратом типа "int"
+  7laba.vcxproj -> E:\my project\7laba\x64\Debug\1zad.exe
