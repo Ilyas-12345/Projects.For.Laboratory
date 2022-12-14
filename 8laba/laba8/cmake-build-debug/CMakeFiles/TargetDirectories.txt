@@ -1,0 +1,4 @@
+E:/laba8/cmake-build-debug/CMakeFiles/laba8.dir
+E:/laba8/cmake-build-debug/CMakeFiles/string.dir
+E:/laba8/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/laba8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
